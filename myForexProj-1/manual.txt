@@ -1,4 +1,4 @@
- for push to ypur github
+ for push to your github
 echo "# forCSD-2204" >> README.md
 git init
 git add README.md
